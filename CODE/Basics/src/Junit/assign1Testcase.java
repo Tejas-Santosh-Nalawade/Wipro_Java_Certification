@@ -48,7 +48,7 @@ class assign1Testcase {
 		int[] expected = {1, 2, 3};
 		assertArrayEquals(expected, result);
 
-		assertTrue(result[0] < result[1]);
+		assertTrue(result[0] < result[1]); 
 	}
 	
 	
